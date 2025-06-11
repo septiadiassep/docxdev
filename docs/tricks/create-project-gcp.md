@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Create Project GCP
+# Create Project GCP (free)
 
-### Overview
+### Overview about Creating Project in Google Cloud Platform
 
 Google Cloud Platform, adalah kumpulan layanan komputasi awan yang ditawarkan oleh Google. GCP berjalan di atas infrastruktur yang sama yang digunakan oleh Google untuk produk internalnya, seperti Google Search, YouTube dan Gmail.
 
