@@ -39,7 +39,7 @@ jobs:
           rm -f .pnp.*
       
       - name: Install dependencies with npm
-        run: npm ci
+        run: npm install
 
       - name: Build
         run: npm run build
