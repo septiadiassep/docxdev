@@ -1,19 +1,9 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+bug-fix:
+  label: Bug Fix
+  permalink: /bug-fix
+  description: Bug fix & troubleshot dari temuan error
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+case-closed:
+  label: Case Closed
+  permalink: /case-closed
+  description: Case sudah berhasil diatasi
