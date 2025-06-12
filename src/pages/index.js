@@ -19,26 +19,26 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/docx-development-system">
-            Development
-          </Link>
-          &nbsp;&nbsp;&nbsp;
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/category/docx-enjoy-coding">
+            to="/docs/category/enjoy-coding">
             Enjoy Coding
-          </Link>
-          &nbsp;&nbsp;&nbsp;
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/category/docx-methodology">
-            Methodology
           </Link>
           &nbsp;&nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/tricks--tutorial">
             Tricks & Tutorial
+          </Link>
+          &nbsp;&nbsp;&nbsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/category/docx-development-system">
+            Development
+          </Link>
+          &nbsp;&nbsp;&nbsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/category/docx-methodology">
+            Methodology
           </Link>
           &nbsp;&nbsp;&nbsp;
           <Link
