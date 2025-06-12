@@ -24,7 +24,7 @@ Kemudian kita akan membuat project baru untuk kita mem-provide resource yang kit
 
 Kemudian klik `New Project`
 
-<img src="/img/11-06-25-tricks/Screenshot 2025-06-11 at 16.55.06.png" alt="Alt text" height="450" />
+<img src="/img/11-06-25-tricks/Screenshot 2025-06-11 at 17.03.04.png" alt="Alt text" height="450" />
 
 Kemudian berikan `Project name` -> kemudian klik tombol `Create`
 
