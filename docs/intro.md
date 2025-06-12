@@ -2,46 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# About Docxdev Corner
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Selamat datang di **Docxdev Corner** — tempat untuk mendokumentasikan proses pengembangan perangkat lunak, berbagi insight, ide, serta berbagai pengetahuan seputar teknologi dan rekayasa perangkat lunak.
 
-## Getting Started
+## 📚 Dokumentasi
+Dalam metodologi *agile*, dokumentasi tetap diperlukan meskipun tidak seberat pendekatan tradisional. Dokumentasi membantu tim dalam menjaga kesinambungan informasi dan referensi selama pengembangan berlangsung.
 
-Get started by **creating a new site**.
+## 💡 Insight & Ide
+Insight software membuka peluang untuk eksperimen ide yang sebelumnya tidak terlihat dalam sistem tradisional. Eksplorasi gagasan baru dapat membawa inovasi dalam arsitektur, desain, hingga teknik pengembangan yang lebih efisien.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 🤝 Berbagi Pengetahuan
+Berbagi adalah bagian penting dalam pengembangan komunitas teknologi. Dengan membagikan temuan, solusi, dan pengalaman, kita bisa mempercepat pertumbuhan dan kemampuan kolektif. Situs ini dibangun menggunakan [Docusaurus](https://docusaurus.io/) yang dapat diperluas dan disesuaikan dengan kebutuhan layout dan tampilan.
 
-### What you'll need
+---
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 🔖 Topik Utama
 
-## Generate a new site
+- **Development**: Pembahasan tentang praktik dan alat dalam pengembangan perangkat lunak.
+- **Enjoy Coding**: Membuat proses coding jadi menyenangkan dan bermakna.
+- **Methodology**: Pendekatan dan kerangka kerja yang digunakan dalam pengembangan proyek.
+- **Tricks**: Tips & trik untuk meningkatkan produktivitas dan efisiensi kerja.
+- **Bug Fix**: Dokumentasi solusi untuk permasalahan atau bug yang umum ditemui.
 
-Generate a new Docusaurus site using the **classic template**.
+---
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Copyright © 2025 Docxdev Corner. All rights reserved. Build with <a href="https://docusaurus.io/">Docusaurus</a>.

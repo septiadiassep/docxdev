@@ -4,27 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Documentation',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Dalam metodologi agile, dokumentasi tetap diperlukan meskipun tidak seberat dalam pendekatan tradisional
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Insight & Ideas',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Software insight membuka peluang untuk eksperimen ide yang sebelumnya tak terlihat dalam pengembangan sistem tradisional
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Sharing Knowladge',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -53,6 +51,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
+        <br/><br/>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
