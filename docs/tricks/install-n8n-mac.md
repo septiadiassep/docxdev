@@ -22,6 +22,8 @@ Untuk menginstallkan di local laptop, lebih khusus sistem operasi `Mac`
 added 1641 packages in 1m
 ```
 
+### 2. Menjalankan n8n
+
 Jika sudah berhasi menginstallkan, kemudian untuk running `n8n` kita cukup ketikan command dibawah ini
 
 ```.sh
@@ -30,6 +32,8 @@ Jika sudah berhasi menginstallkan, kemudian untuk running `n8n` kita cukup ketik
 ```
 
 ![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.14.04.png)
+
+### 3. Let's hack!
 
 Untuk mengakses panel cukup ketikan `o` tunggu akan di redirect ke web browser kita
 
