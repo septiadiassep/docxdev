@@ -17,11 +17,11 @@ Ekspektasinya adalah bagaimana agar `n8n` bisa running well seperti sebelumnya
 
 Dari error yang didapat terdapat message seperti berikut
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 12.13.19.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.13.19.png)
 
 Awal mula error terjadi di saat ingin merunning dengan menjalankan command `npx n8n`
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 12.13.29.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.13.29.png)
 
 ```.sh
 require() of ES Module ... not supported
@@ -50,11 +50,11 @@ npm install -g n8n
 
 Jika kita lihat, `n8n` sudah berhasil kita installkan di local, dengan command berikut
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 12.13.40.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.13.40.png)
 
 Namun itu tadi, n8n tidak bisa di running, kita akan setup default `nvm` versi pada laptop kita, pertama cek dulu list versi yang tersedia dan saat ini digunakan
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 12.13.46.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.13.46.png)
 
 Tanda `->` menandakan bahwa versi yang saat ini digunakan, untuk seting agar bisa di switch ke versi 18, kita cukup lakukan command seperti berikut, namun sebelum itu install terlebih dahulu versi 18, karna dari gambar diatas kita belum tersedia
 
@@ -77,10 +77,10 @@ Now using node v18.20.8 (npm v10.8.2)
 
 Kita cek 
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 13.23.47.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2013.23.47.png)
 
 ## 4. Case Closed
 
 Sip, kita sudah berhasil switch versi yang sedang digunakan, selanjutnya kita running `n8n` nya kembali, dan sudah berhasil di running kembali
 
-<img src="/img/12-06-25-blog/Screenshot 2025-06-12 at 12.14.04.png" alt="Alt text"  />
+![Alt text](./img/12-06-25/Screenshot%202025-06-12%20at%2012.14.04.png)

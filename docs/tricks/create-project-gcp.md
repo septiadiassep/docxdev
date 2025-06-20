@@ -24,16 +24,16 @@ Kemudian kita akan membuat project baru untuk kita mem-provide resource yang kit
 
 Kemudian klik `New Project`
 
-<img src="/img/11-06-25-tricks/Screenshot 2025-06-11 at 17.03.04.png" alt="Alt text" height="450" />
+![Alt text](./img/11-06-25/Screenshot%202025-06-11%20at%2017.03.04.png)
 
 Kemudian berikan `Project name` -> kemudian klik tombol `Create`
 
-<img src="/img/11-06-25-tricks/Screenshot 2025-06-11 at 17.03.58.png" alt="Alt text" height="267"/>
+![Alt text](./img/11-06-25/Screenshot%202025-06-11%20at%2017.03.58.png)
 
 ### 2nd: Finish Creating Project GCP
 
 Jika sudah berhasil seperti tampak pada gambar, klik `Select Project`
 
-<img src="/img/11-06-25-tricks/Screenshot 2025-06-11 at 17.05.10.png" alt="Alt text"  />
+![Alt text](./img/11-06-25/Screenshot%202025-06-11%20at%2017.05.10.png)
 
 Yap, akhirnya Kita sudah berhasil membuat project di GCP
