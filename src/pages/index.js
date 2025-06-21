@@ -31,20 +31,20 @@ function HomepageHeader() {
           &nbsp;&nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/docx-development-system">
-            Development
+            to="/docs/category/development--learning">
+            Development & Learning
           </Link>
           &nbsp;&nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/docx-methodology">
-            Methodology
+            to="/docs/category/methodology--ideas">
+            Methodology & Ideas
           </Link>
           &nbsp;&nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/docx-bug-fixing-code">
-            Bug Fix
+            to="/docs/category/bug-fix--problem-solve">
+            Bug Fix & Problem Solve
           </Link>
         </div>
       </div>
