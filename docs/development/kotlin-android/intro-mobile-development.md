@@ -1,8 +1,4 @@
----
-sidebar_position: 2
----
-
-# Mobile Development: A. Kotlin
+# Start Learning Kotlin - Android
 
 Berikut adalah versi development-system.md yang telah disesuaikan untuk proyek Mobile Development Android dengan `Kotlin`, `Room`, dan `Clean Architecture`
 
