@@ -42,6 +42,11 @@ const config = {
     locales: ['en'],
   },
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   presets: [
     [
       'classic',
@@ -82,7 +87,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Docxdev Corner',
+        title: 'Dok.',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
