@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Start Learning React JS
 
 Untuk membuat project, kita bisa memanfaatkan `Vite` sebagai `Build Tool` nya, untuk membuat project `React` kita dapat membuat dengan perintah sebagai berikut
