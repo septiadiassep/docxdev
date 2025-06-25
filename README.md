@@ -1,5 +1,8 @@
-![Screenshot 2025-06-13 at 00 35 54](https://github.com/user-attachments/assets/724104f7-7ab9-4b37-896a-bd463b0e698c)
+## Dok. 1.0.2
 
-![Screenshot 2025-06-13 at 00 39 25](https://github.com/user-attachments/assets/dbba9f3f-79ed-48af-9e67-0828ace0c80c)
+![Screenshot 2025-06-25 at 17 21 49](https://github.com/user-attachments/assets/53e481e6-55a0-4d67-9085-31d3b86b8015)
 
-![Screenshot 2025-06-13 at 00 39 55](https://github.com/user-attachments/assets/f9061e18-83f3-4ff5-ad06-0993317073d8)
+## Update:
+
+- Tambah 2 artikel di `React JS`
+- Tambah 1 artikel di `Blog`
